@@ -4,7 +4,7 @@
 *italic text*
 > Blockquotes
 - Unordered List
-
+`code`
 
 ![ImageTitle](/image_path/image_name.png)
 [LinkTitle](http://url.com)
