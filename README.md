@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @EwenDof
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-..
+# Heading level 1
+## Heading level 2
+**bold text**
+*italic text*
+> Blockquotes
+- Unordered List
 
 <!---
 EwenDof/EwenDof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
